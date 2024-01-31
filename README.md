@@ -16,8 +16,8 @@ NGAI's Techathon is a one-of-a-kind event that brings together the brightest min
 
 ## Contributors
 
-Ayush Tiwari (@aaayushh7)
-Kanishk Reddy (@Kanishk3813)
-Sudipta Bag (@sudiptabag2004)
-Ashutosh Anand (@loopassembly)
+- Ayush Tiwari (@aaayushh7)
+- Kanishk Reddy (@Kanishk3813)
+- Sudipta Bag (@sudiptabag2004)
+- Ashutosh Anand (@loopassembly)
 
