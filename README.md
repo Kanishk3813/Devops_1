@@ -1,10 +1,10 @@
-# NGAI Technical Event Repository
+# NGAI Pentathon Event Repository
 
-Welcome to the NGAI Technical Event Repository!
+Welcome to the NGAI Pentathon Event Repository!
 
 ## Introduction
 
-NGAI's Techathon is a one-of-a-kind event that brings together the brightest minds in the tech industry for a marathon of innovation. From hacking challenges to web development showdowns, app creation sprints, idea brainstorming sessions, and data analysis quests, there's something for everyone at this exhilarating event.
+NGAI's Pentathon is a one-of-a-kind event that brings together the brightest minds in the tech industry for a marathon of innovation. From hacking challenges to web development showdowns, app creation sprints, idea brainstorming sessions, and data analysis quests, there's something for everyone at this exhilarating event.
 
 ## Events
 
